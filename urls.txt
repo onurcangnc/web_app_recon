@@ -1,7 +1,6 @@
-bmd.com.tr
-online.bmd.com.tr
-sozlesme.bmd.com.tr
-testmobil2.bmd.com.tr
-test.bmd.com.tr
-mobiltrader.bmd.com.tr
-envision.bmd.com.tr
+tanap.com
+connect.tanap.com
+mycloud.tanap.com
+gis.tanap.com/
+gis.tanap.com/portal
+vendorportal.tanap.com
