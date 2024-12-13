@@ -1,6 +1,0 @@
-tanap.com
-connect.tanap.com
-mycloud.tanap.com
-gis.tanap.com/
-gis.tanap.com/portal
-vendorportal.tanap.com
